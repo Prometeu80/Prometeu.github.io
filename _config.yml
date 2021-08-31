@@ -1,6 +1,6 @@
-title: Minimal theme
+title: Carles Nicolau
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
+description: Proyectos personales.
+show_downloads: False
 google_analytics:
 theme: jekyll-theme-minimal
